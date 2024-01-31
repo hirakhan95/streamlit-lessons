@@ -1,6 +1,6 @@
 import streamlit as st
-st.write("Hello world!!!!")
-st.write("---")
+# st.write("Hello world!!!!")
+# st.write("---")
 
 
 
@@ -15,9 +15,9 @@ st.write("---")
 # Display media
 
 
-################################################################################
-### Display text ###
-################################################################################
+###############################################################################
+## Display text ###
+###############################################################################
 # st.write("# This is a major section")  # use markdown to create headers and sub headers
 # st.write("## This is subsection 1")
 # st.write("* Here is content for subsection 1")
